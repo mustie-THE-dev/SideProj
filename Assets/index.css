@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;1,200&display=swap');
+*{  
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+ }
+
+
+body{
+    width: 100%;
+   height: 100vh;
+   position: relative;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+    background:url("./images/louis-hansel-AUcmx7fGjtU-unsplash.jpg");
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+ .navlinks{
+    display: inline-block;
+
+}
+.navlinks ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 40px 0px 10px;
+ }
+ @media only screen and (max-width: 971px) {
+    /* For mobile phones: */
+    [class="container"] {
+      width: 100%;
+    }
+  }
+  
+ .parent{
+     display: flex;
+     justify-content: space-between;
+    
+     background-color:aliceblue;
+     border: none;
+     padding: 50px 20px 0px 0px;
+     margin-top: 5%;
+ }
+ .badd h2{
+     font-size: 40px;
+     color: rgb(223, 114, 132);
+     padding-bottom: 20px;
+ }
+ .words {
+
+     padding: 100px 40px 0px 10px;
+     margin-top: 10px;
+ }
+ .words h3{
+     font-weight: 800;
+     font-size: 40px;
+     color: brown;
+ }
+  .words hr{
+    border: none;
+    width: 150px;
+    background-image: linear-gradient(to right, gold, red,black);
+    height: 3px;
+    margin-bottom: 30px;
+}
+    
+ .words p{
+     font-size: 30px;
+     font-weight: lighter;
+ }
+ @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class="parent"] {
+      width: 100%;
+    }
+  }
+ 
