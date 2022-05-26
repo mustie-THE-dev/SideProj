@@ -3,7 +3,7 @@ My Food Blog
 # SIDEPROJ
  ## By SIMON KAMAU
 ## Screenshot
-![image](../Assets/images/Screenshot%20from%202022-05-26%2010-28-31.pnggi)
+![image](../Assets/images/Screenshot%20from%202022-05-26%2010-28-31.png)
 
  ## Table of Content
  - [Description](#description)
