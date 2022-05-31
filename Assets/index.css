@@ -75,17 +75,21 @@ h1{
      color:brown;
      padding:10px 0px 2px 20px;
      margin-bottom: 50px;
+     margin-left: 30px;
+     
  }
  
 .badd img{
     border-top-right-radius: 1em;
     border-bottom-right-radius: 1ex;
+    margin-left: 40px;
 }
  
  .words {
 
      padding: 150px 50px 0px 10px;
      margin-top: 50px;
+    
  }
  .words h3{
      font-weight: 800;
